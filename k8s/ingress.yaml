@@ -16,5 +16,4 @@ spec:
               servicePort: 3000
               path: /
               pathType: Prefix
-			  
 # 그룹묶은 애들을 네트워크로 어떻게 나갈지 
