@@ -8,3 +8,6 @@ spec:
       targetPort: 3000
   selector:
     app: krampoline
+
+
+#pod들 그룹화해주는거. 그룹들이 어떤 port 로 나갈건지, 순서 정렬 등
